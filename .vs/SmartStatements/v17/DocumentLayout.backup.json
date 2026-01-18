@@ -1,0 +1,447 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TOP\\source\\repos\\SmartStatements\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11A45C96-4093-4BDC-AADA-05B43666755E}|SmartStatements.Application\\SmartStatements.Core.csproj|c:\\users\\top\\source\\repos\\smartstatements\\smartstatements.application\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A45C96-4093-4BDC-AADA-05B43666755E}|SmartStatements.Application\\SmartStatements.Core.csproj|solutionrelative:smartstatements.application\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E6A2450-6562-4D0E-832A-0C75323647C8}|SmartStatements.Infra\\SmartStatements.Infra.csproj|c:\\users\\top\\source\\repos\\smartstatements\\smartstatements.infra\\persistence\\inmemorydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E6A2450-6562-4D0E-832A-0C75323647C8}|SmartStatements.Infra\\SmartStatements.Infra.csproj|solutionrelative:smartstatements.infra\\persistence\\inmemorydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0D7518-C4FB-44A6-B3B7-1C7FE48C0C17}|SmartStatements\\SmartStatements.Api.csproj|c:\\users\\top\\source\\repos\\smartstatements\\smartstatements\\controllers\\statementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0D7518-C4FB-44A6-B3B7-1C7FE48C0C17}|SmartStatements\\SmartStatements.Api.csproj|solutionrelative:smartstatements\\controllers\\statementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E6A2450-6562-4D0E-832A-0C75323647C8}|SmartStatements.Infra\\SmartStatements.Infra.csproj|c:\\users\\top\\source\\repos\\smartstatements\\smartstatements.infra\\repositories\\statementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E6A2450-6562-4D0E-832A-0C75323647C8}|SmartStatements.Infra\\SmartStatements.Infra.csproj|solutionrelative:smartstatements.infra\\repositories\\statementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A45C96-4093-4BDC-AADA-05B43666755E}|SmartStatements.Application\\SmartStatements.Core.csproj|c:\\users\\top\\source\\repos\\smartstatements\\smartstatements.application\\irepositories\\istatementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A45C96-4093-4BDC-AADA-05B43666755E}|SmartStatements.Application\\SmartStatements.Core.csproj|solutionrelative:smartstatements.application\\irepositories\\istatementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A45C96-4093-4BDC-AADA-05B43666755E}|SmartStatements.Application\\SmartStatements.Core.csproj|c:\\users\\top\\source\\repos\\smartstatements\\smartstatements.application\\statements\\handlers\\generatemonthlystatementshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A45C96-4093-4BDC-AADA-05B43666755E}|SmartStatements.Application\\SmartStatements.Core.csproj|solutionrelative:smartstatements.application\\statements\\handlers\\generatemonthlystatementshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A45C96-4093-4BDC-AADA-05B43666755E}|SmartStatements.Application\\SmartStatements.Core.csproj|c:\\users\\top\\source\\repos\\smartstatements\\smartstatements.application\\irepositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A45C96-4093-4BDC-AADA-05B43666755E}|SmartStatements.Application\\SmartStatements.Core.csproj|solutionrelative:smartstatements.application\\irepositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E6A2450-6562-4D0E-832A-0C75323647C8}|SmartStatements.Infra\\SmartStatements.Infra.csproj|c:\\users\\top\\source\\repos\\smartstatements\\smartstatements.infra\\servieces\\smtpemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E6A2450-6562-4D0E-832A-0C75323647C8}|SmartStatements.Infra\\SmartStatements.Infra.csproj|solutionrelative:smartstatements.infra\\servieces\\smtpemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A45C96-4093-4BDC-AADA-05B43666755E}|SmartStatements.Application\\SmartStatements.Core.csproj|c:\\users\\top\\source\\repos\\smartstatements\\smartstatements.application\\statements\\handlers\\generatestatementcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A45C96-4093-4BDC-AADA-05B43666755E}|SmartStatements.Application\\SmartStatements.Core.csproj|solutionrelative:smartstatements.application\\statements\\handlers\\generatestatementcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A45C96-4093-4BDC-AADA-05B43666755E}|SmartStatements.Application\\SmartStatements.Core.csproj|c:\\users\\top\\source\\repos\\smartstatements\\smartstatements.application\\common\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A45C96-4093-4BDC-AADA-05B43666755E}|SmartStatements.Application\\SmartStatements.Core.csproj|solutionrelative:smartstatements.application\\common\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0D7518-C4FB-44A6-B3B7-1C7FE48C0C17}|SmartStatements\\SmartStatements.Api.csproj|c:\\users\\top\\source\\repos\\smartstatements\\smartstatements\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DF0D7518-C4FB-44A6-B3B7-1C7FE48C0C17}|SmartStatements\\SmartStatements.Api.csproj|solutionrelative:smartstatements\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A45C96-4093-4BDC-AADA-05B43666755E}|SmartStatements.Application\\SmartStatements.Core.csproj|c:\\users\\top\\source\\repos\\smartstatements\\smartstatements.application\\statements\\commands\\generatestatementcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A45C96-4093-4BDC-AADA-05B43666755E}|SmartStatements.Application\\SmartStatements.Core.csproj|solutionrelative:smartstatements.application\\statements\\commands\\generatestatementcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A45C96-4093-4BDC-AADA-05B43666755E}|SmartStatements.Application\\SmartStatements.Core.csproj|c:\\users\\top\\source\\repos\\smartstatements\\smartstatements.application\\statements\\commands\\generatemonthlystatementscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A45C96-4093-4BDC-AADA-05B43666755E}|SmartStatements.Application\\SmartStatements.Core.csproj|solutionrelative:smartstatements.application\\statements\\commands\\generatemonthlystatementscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0D7518-C4FB-44A6-B3B7-1C7FE48C0C17}|SmartStatements\\SmartStatements.Api.csproj|c:\\users\\top\\source\\repos\\smartstatements\\smartstatements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0D7518-C4FB-44A6-B3B7-1C7FE48C0C17}|SmartStatements\\SmartStatements.Api.csproj|solutionrelative:smartstatements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A45C96-4093-4BDC-AADA-05B43666755E}|SmartStatements.Application\\SmartStatements.Core.csproj|c:\\users\\top\\source\\repos\\smartstatements\\smartstatements.application\\statements\\validators\\generatemonthlystatementscommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A45C96-4093-4BDC-AADA-05B43666755E}|SmartStatements.Application\\SmartStatements.Core.csproj|solutionrelative:smartstatements.application\\statements\\validators\\generatemonthlystatementscommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E6A2450-6562-4D0E-832A-0C75323647C8}|SmartStatements.Infra\\SmartStatements.Infra.csproj|c:\\users\\top\\source\\repos\\smartstatements\\smartstatements.infra\\settings\\smtpsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E6A2450-6562-4D0E-832A-0C75323647C8}|SmartStatements.Infra\\SmartStatements.Infra.csproj|solutionrelative:smartstatements.infra\\settings\\smtpsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E6A2450-6562-4D0E-832A-0C75323647C8}|SmartStatements.Infra\\SmartStatements.Infra.csproj|c:\\users\\top\\source\\repos\\smartstatements\\smartstatements.infra\\smartstatements.infra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4E6A2450-6562-4D0E-832A-0C75323647C8}|SmartStatements.Infra\\SmartStatements.Infra.csproj|solutionrelative:smartstatements.infra\\smartstatements.infra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A45C96-4093-4BDC-AADA-05B43666755E}|SmartStatements.Application\\SmartStatements.Core.csproj|c:\\users\\top\\source\\repos\\smartstatements\\smartstatements.application\\statements\\handlers\\getstatementqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A45C96-4093-4BDC-AADA-05B43666755E}|SmartStatements.Application\\SmartStatements.Core.csproj|solutionrelative:smartstatements.application\\statements\\handlers\\getstatementqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A45C96-4093-4BDC-AADA-05B43666755E}|SmartStatements.Application\\SmartStatements.Core.csproj|c:\\users\\top\\source\\repos\\smartstatements\\smartstatements.application\\statements\\validators\\generatestatementvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A45C96-4093-4BDC-AADA-05B43666755E}|SmartStatements.Application\\SmartStatements.Core.csproj|solutionrelative:smartstatements.application\\statements\\validators\\generatestatementvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A45C96-4093-4BDC-AADA-05B43666755E}|SmartStatements.Application\\SmartStatements.Core.csproj|c:\\users\\top\\source\\repos\\smartstatements\\smartstatements.application\\statements\\queries\\getstatementquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A45C96-4093-4BDC-AADA-05B43666755E}|SmartStatements.Application\\SmartStatements.Core.csproj|solutionrelative:smartstatements.application\\statements\\queries\\getstatementquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A45C96-4093-4BDC-AADA-05B43666755E}|SmartStatements.Application\\SmartStatements.Core.csproj|c:\\users\\top\\source\\repos\\smartstatements\\smartstatements.application\\iservice\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A45C96-4093-4BDC-AADA-05B43666755E}|SmartStatements.Application\\SmartStatements.Core.csproj|solutionrelative:smartstatements.application\\iservice\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A45C96-4093-4BDC-AADA-05B43666755E}|SmartStatements.Application\\SmartStatements.Core.csproj|c:\\users\\top\\source\\repos\\smartstatements\\smartstatements.application\\entities\\statement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A45C96-4093-4BDC-AADA-05B43666755E}|SmartStatements.Application\\SmartStatements.Core.csproj|solutionrelative:smartstatements.application\\entities\\statement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A45C96-4093-4BDC-AADA-05B43666755E}|SmartStatements.Application\\SmartStatements.Core.csproj|c:\\users\\top\\source\\repos\\smartstatements\\smartstatements.application\\dtos\\statementdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A45C96-4093-4BDC-AADA-05B43666755E}|SmartStatements.Application\\SmartStatements.Core.csproj|solutionrelative:smartstatements.application\\dtos\\statementdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0D7518-C4FB-44A6-B3B7-1C7FE48C0C17}|SmartStatements\\SmartStatements.Api.csproj|c:\\users\\top\\source\\repos\\smartstatements\\smartstatements\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF0D7518-C4FB-44A6-B3B7-1C7FE48C0C17}|SmartStatements\\SmartStatements.Api.csproj|solutionrelative:smartstatements\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0D7518-C4FB-44A6-B3B7-1C7FE48C0C17}|SmartStatements\\SmartStatements.Api.csproj|c:\\users\\top\\source\\repos\\smartstatements\\smartstatements\\smartstatements.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DF0D7518-C4FB-44A6-B3B7-1C7FE48C0C17}|SmartStatements\\SmartStatements.Api.csproj|solutionrelative:smartstatements\\smartstatements.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A45C96-4093-4BDC-AADA-05B43666755E}|SmartStatements.Application\\SmartStatements.Core.csproj|c:\\users\\top\\source\\repos\\smartstatements\\smartstatements.application\\smartstatements.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{11A45C96-4093-4BDC-AADA-05B43666755E}|SmartStatements.Application\\SmartStatements.Core.csproj|solutionrelative:smartstatements.application\\smartstatements.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\TOP\\source\\repos\\SmartStatements\\SmartStatements.Application\\IRepositories\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "SmartStatements.Application\\IRepositories\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\TOP\\source\\repos\\SmartStatements\\SmartStatements.Application\\IRepositories\\ICustomerRepository.cs*",
+              "RelativeToolTip": "SmartStatements.Application\\IRepositories\\ICustomerRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T17:09:56.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StatementsController.cs",
+              "DocumentMoniker": "C:\\Users\\TOP\\source\\repos\\SmartStatements\\SmartStatements\\Controllers\\StatementsController.cs",
+              "RelativeDocumentMoniker": "SmartStatements\\Controllers\\StatementsController.cs",
+              "ToolTip": "C:\\Users\\TOP\\source\\repos\\SmartStatements\\SmartStatements\\Controllers\\StatementsController.cs*",
+              "RelativeToolTip": "SmartStatements\\Controllers\\StatementsController.cs*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T20:26:46.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StatementRepository.cs",
+              "DocumentMoniker": "C:\\Users\\TOP\\source\\repos\\SmartStatements\\SmartStatements.Infra\\Repositories\\StatementRepository.cs",
+              "RelativeDocumentMoniker": "SmartStatements.Infra\\Repositories\\StatementRepository.cs",
+              "ToolTip": "C:\\Users\\TOP\\source\\repos\\SmartStatements\\SmartStatements.Infra\\Repositories\\StatementRepository.cs*",
+              "RelativeToolTip": "SmartStatements.Infra\\Repositories\\StatementRepository.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwCQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T20:16:25.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GenerateMonthlyStatementsHandler.cs",
+              "DocumentMoniker": "C:\\Users\\TOP\\source\\repos\\SmartStatements\\SmartStatements.Application\\Statements\\Handlers\\GenerateMonthlyStatementsHandler.cs",
+              "RelativeDocumentMoniker": "SmartStatements.Application\\Statements\\Handlers\\GenerateMonthlyStatementsHandler.cs",
+              "ToolTip": "C:\\Users\\TOP\\source\\repos\\SmartStatements\\SmartStatements.Application\\Statements\\Handlers\\GenerateMonthlyStatementsHandler.cs*",
+              "RelativeToolTip": "SmartStatements.Application\\Statements\\Handlers\\GenerateMonthlyStatementsHandler.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAA8wDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T22:15:44.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IStatementRepository.cs",
+              "DocumentMoniker": "C:\\Users\\TOP\\source\\repos\\SmartStatements\\SmartStatements.Application\\IRepositories\\IStatementRepository.cs",
+              "RelativeDocumentMoniker": "SmartStatements.Application\\IRepositories\\IStatementRepository.cs",
+              "ToolTip": "C:\\Users\\TOP\\source\\repos\\SmartStatements\\SmartStatements.Application\\IRepositories\\IStatementRepository.cs*",
+              "RelativeToolTip": "SmartStatements.Application\\IRepositories\\IStatementRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T20:03:19.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\TOP\\source\\repos\\SmartStatements\\SmartStatements.Application\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "SmartStatements.Application\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\TOP\\source\\repos\\SmartStatements\\SmartStatements.Application\\Entities\\Customer.cs*",
+              "RelativeToolTip": "SmartStatements.Application\\Entities\\Customer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T16:59:15.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InMemoryDb.cs",
+              "DocumentMoniker": "C:\\Users\\TOP\\source\\repos\\SmartStatements\\SmartStatements.Infra\\Persistence\\InMemoryDb.cs",
+              "RelativeDocumentMoniker": "SmartStatements.Infra\\Persistence\\InMemoryDb.cs",
+              "ToolTip": "C:\\Users\\TOP\\source\\repos\\SmartStatements\\SmartStatements.Infra\\Persistence\\InMemoryDb.cs*",
+              "RelativeToolTip": "SmartStatements.Infra\\Persistence\\InMemoryDb.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA5wBAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T20:15:22.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GenerateStatementCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\TOP\\source\\repos\\SmartStatements\\SmartStatements.Application\\Statements\\Handlers\\GenerateStatementCommandHandler.cs",
+              "RelativeDocumentMoniker": "SmartStatements.Application\\Statements\\Handlers\\GenerateStatementCommandHandler.cs",
+              "ToolTip": "C:\\Users\\TOP\\source\\repos\\SmartStatements\\SmartStatements.Application\\Statements\\Handlers\\GenerateStatementCommandHandler.cs",
+              "RelativeToolTip": "SmartStatements.Application\\Statements\\Handlers\\GenerateStatementCommandHandler.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAIAwwCMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T12:47:41.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ValidationBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\TOP\\source\\repos\\SmartStatements\\SmartStatements.Application\\Common\\Behaviors\\ValidationBehavior.cs",
+              "RelativeDocumentMoniker": "SmartStatements.Application\\Common\\Behaviors\\ValidationBehavior.cs",
+              "ToolTip": "C:\\Users\\TOP\\source\\repos\\SmartStatements\\SmartStatements.Application\\Common\\Behaviors\\ValidationBehavior.cs",
+              "RelativeToolTip": "SmartStatements.Application\\Common\\Behaviors\\ValidationBehavior.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAIAwwCYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T13:10:19.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\TOP\\source\\repos\\SmartStatements\\SmartStatements\\appsettings.json",
+              "RelativeDocumentMoniker": "SmartStatements\\appsettings.json",
+              "ToolTip": "C:\\Users\\TOP\\source\\repos\\SmartStatements\\SmartStatements\\appsettings.json",
+              "RelativeToolTip": "SmartStatements\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-17T20:28:32.481Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GenerateStatementCommand.cs",
+              "DocumentMoniker": "C:\\Users\\TOP\\source\\repos\\SmartStatements\\SmartStatements.Application\\Statements\\Commands\\GenerateStatementCommand.cs",
+              "RelativeDocumentMoniker": "SmartStatements.Application\\Statements\\Commands\\GenerateStatementCommand.cs",
+              "ToolTip": "C:\\Users\\TOP\\source\\repos\\SmartStatements\\SmartStatements.Application\\Statements\\Commands\\GenerateStatementCommand.cs",
+              "RelativeToolTip": "SmartStatements.Application\\Statements\\Commands\\GenerateStatementCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T12:42:54.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SmtpEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\TOP\\source\\repos\\SmartStatements\\SmartStatements.Infra\\Servieces\\SmtpEmailService.cs",
+              "RelativeDocumentMoniker": "SmartStatements.Infra\\Servieces\\SmtpEmailService.cs",
+              "ToolTip": "C:\\Users\\TOP\\source\\repos\\SmartStatements\\SmartStatements.Infra\\Servieces\\SmtpEmailService.cs",
+              "RelativeToolTip": "SmartStatements.Infra\\Servieces\\SmtpEmailService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAIwDIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T20:18:02.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GenerateMonthlyStatementsCommand.cs",
+              "DocumentMoniker": "C:\\Users\\TOP\\source\\repos\\SmartStatements\\SmartStatements.Application\\Statements\\Commands\\GenerateMonthlyStatementsCommand.cs",
+              "RelativeDocumentMoniker": "SmartStatements.Application\\Statements\\Commands\\GenerateMonthlyStatementsCommand.cs",
+              "ToolTip": "C:\\Users\\TOP\\source\\repos\\SmartStatements\\SmartStatements.Application\\Statements\\Commands\\GenerateMonthlyStatementsCommand.cs",
+              "RelativeToolTip": "SmartStatements.Application\\Statements\\Commands\\GenerateMonthlyStatementsCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T22:08:03.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GenerateMonthlyStatementsCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\TOP\\source\\repos\\SmartStatements\\SmartStatements.Application\\Statements\\Validators\\GenerateMonthlyStatementsCommandValidator.cs",
+              "RelativeDocumentMoniker": "SmartStatements.Application\\Statements\\Validators\\GenerateMonthlyStatementsCommandValidator.cs",
+              "ToolTip": "C:\\Users\\TOP\\source\\repos\\SmartStatements\\SmartStatements.Application\\Statements\\Validators\\GenerateMonthlyStatementsCommandValidator.cs",
+              "RelativeToolTip": "SmartStatements.Application\\Statements\\Validators\\GenerateMonthlyStatementsCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T22:11:58.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TOP\\source\\repos\\SmartStatements\\SmartStatements\\Program.cs",
+              "RelativeDocumentMoniker": "SmartStatements\\Program.cs",
+              "ToolTip": "C:\\Users\\TOP\\source\\repos\\SmartStatements\\SmartStatements\\Program.cs",
+              "RelativeToolTip": "SmartStatements\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T12:50:23.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SmtpSettings.cs",
+              "DocumentMoniker": "C:\\Users\\TOP\\source\\repos\\SmartStatements\\SmartStatements.Infra\\Settings\\SmtpSettings.cs",
+              "RelativeDocumentMoniker": "SmartStatements.Infra\\Settings\\SmtpSettings.cs",
+              "ToolTip": "C:\\Users\\TOP\\source\\repos\\SmartStatements\\SmartStatements.Infra\\Settings\\SmtpSettings.cs",
+              "RelativeToolTip": "SmartStatements.Infra\\Settings\\SmtpSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T11:06:18.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SmartStatements.Infra.csproj",
+              "DocumentMoniker": "C:\\Users\\TOP\\source\\repos\\SmartStatements\\SmartStatements.Infra\\SmartStatements.Infra.csproj",
+              "RelativeDocumentMoniker": "SmartStatements.Infra\\SmartStatements.Infra.csproj",
+              "ToolTip": "C:\\Users\\TOP\\source\\repos\\SmartStatements\\SmartStatements.Infra\\SmartStatements.Infra.csproj",
+              "RelativeToolTip": "SmartStatements.Infra\\SmartStatements.Infra.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-17T12:25:00.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetStatementQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\TOP\\source\\repos\\SmartStatements\\SmartStatements.Application\\Statements\\Handlers\\GetStatementQueryHandler.cs",
+              "RelativeDocumentMoniker": "SmartStatements.Application\\Statements\\Handlers\\GetStatementQueryHandler.cs",
+              "ToolTip": "C:\\Users\\TOP\\source\\repos\\SmartStatements\\SmartStatements.Application\\Statements\\Handlers\\GetStatementQueryHandler.cs",
+              "RelativeToolTip": "SmartStatements.Application\\Statements\\Handlers\\GetStatementQueryHandler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T20:10:18.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GenerateStatementValidator.cs",
+              "DocumentMoniker": "C:\\Users\\TOP\\source\\repos\\SmartStatements\\SmartStatements.Application\\Statements\\Validators\\GenerateStatementValidator.cs",
+              "RelativeDocumentMoniker": "SmartStatements.Application\\Statements\\Validators\\GenerateStatementValidator.cs",
+              "ToolTip": "C:\\Users\\TOP\\source\\repos\\SmartStatements\\SmartStatements.Application\\Statements\\Validators\\GenerateStatementValidator.cs",
+              "RelativeToolTip": "SmartStatements.Application\\Statements\\Validators\\GenerateStatementValidator.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T12:45:48.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GetStatementQuery.cs",
+              "DocumentMoniker": "C:\\Users\\TOP\\source\\repos\\SmartStatements\\SmartStatements.Application\\Statements\\Queries\\GetStatementQuery.cs",
+              "RelativeDocumentMoniker": "SmartStatements.Application\\Statements\\Queries\\GetStatementQuery.cs",
+              "ToolTip": "C:\\Users\\TOP\\source\\repos\\SmartStatements\\SmartStatements.Application\\Statements\\Queries\\GetStatementQuery.cs",
+              "RelativeToolTip": "SmartStatements.Application\\Statements\\Queries\\GetStatementQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T20:05:49.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\TOP\\source\\repos\\SmartStatements\\SmartStatements.Application\\IService\\IEmailService.cs",
+              "RelativeDocumentMoniker": "SmartStatements.Application\\IService\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\TOP\\source\\repos\\SmartStatements\\SmartStatements.Application\\IService\\IEmailService.cs",
+              "RelativeToolTip": "SmartStatements.Application\\IService\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T20:04:02.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Statement.cs",
+              "DocumentMoniker": "C:\\Users\\TOP\\source\\repos\\SmartStatements\\SmartStatements.Application\\Entities\\Statement.cs",
+              "RelativeDocumentMoniker": "SmartStatements.Application\\Entities\\Statement.cs",
+              "ToolTip": "C:\\Users\\TOP\\source\\repos\\SmartStatements\\SmartStatements.Application\\Entities\\Statement.cs",
+              "RelativeToolTip": "SmartStatements.Application\\Entities\\Statement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T16:59:29.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StatementDto.cs",
+              "DocumentMoniker": "C:\\Users\\TOP\\source\\repos\\SmartStatements\\SmartStatements.Application\\DTOs\\StatementDto.cs",
+              "RelativeDocumentMoniker": "SmartStatements.Application\\DTOs\\StatementDto.cs",
+              "ToolTip": "C:\\Users\\TOP\\source\\repos\\SmartStatements\\SmartStatements.Application\\DTOs\\StatementDto.cs",
+              "RelativeToolTip": "SmartStatements.Application\\DTOs\\StatementDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T19:55:56.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\TOP\\source\\repos\\SmartStatements\\SmartStatements\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "SmartStatements\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\TOP\\source\\repos\\SmartStatements\\SmartStatements\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "SmartStatements\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T13:13:36.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SmartStatements.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\TOP\\source\\repos\\SmartStatements\\SmartStatements\\SmartStatements.Api.csproj",
+              "RelativeDocumentMoniker": "SmartStatements\\SmartStatements.Api.csproj",
+              "ToolTip": "C:\\Users\\TOP\\source\\repos\\SmartStatements\\SmartStatements\\SmartStatements.Api.csproj",
+              "RelativeToolTip": "SmartStatements\\SmartStatements.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-17T12:51:26.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SmartStatements.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\TOP\\source\\repos\\SmartStatements\\SmartStatements.Application\\SmartStatements.Core.csproj",
+              "RelativeDocumentMoniker": "SmartStatements.Application\\SmartStatements.Core.csproj",
+              "ToolTip": "C:\\Users\\TOP\\source\\repos\\SmartStatements\\SmartStatements.Application\\SmartStatements.Core.csproj",
+              "RelativeToolTip": "SmartStatements.Application\\SmartStatements.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-17T12:11:37.859Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
