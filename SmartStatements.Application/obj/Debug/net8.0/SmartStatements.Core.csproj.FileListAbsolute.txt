@@ -1,0 +1,13 @@
+C:\Users\TOP\source\repos\SmartStatements\SmartStatements.Application\bin\Debug\net8.0\SmartStatements.Core.deps.json
+C:\Users\TOP\source\repos\SmartStatements\SmartStatements.Application\bin\Debug\net8.0\SmartStatements.Core.dll
+C:\Users\TOP\source\repos\SmartStatements\SmartStatements.Application\bin\Debug\net8.0\SmartStatements.Core.pdb
+C:\Users\TOP\source\repos\SmartStatements\SmartStatements.Application\obj\Debug\net8.0\SmartStatements.Core.csproj.AssemblyReference.cache
+C:\Users\TOP\source\repos\SmartStatements\SmartStatements.Application\obj\Debug\net8.0\SmartStatements.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOP\source\repos\SmartStatements\SmartStatements.Application\obj\Debug\net8.0\SmartStatements.Core.AssemblyInfoInputs.cache
+C:\Users\TOP\source\repos\SmartStatements\SmartStatements.Application\obj\Debug\net8.0\SmartStatements.Core.AssemblyInfo.cs
+C:\Users\TOP\source\repos\SmartStatements\SmartStatements.Application\obj\Debug\net8.0\SmartStatements.Core.csproj.CoreCompileInputs.cache
+C:\Users\TOP\source\repos\SmartStatements\SmartStatements.Application\obj\Debug\net8.0\SmartStatements.Core.dll
+C:\Users\TOP\source\repos\SmartStatements\SmartStatements.Application\obj\Debug\net8.0\refint\SmartStatements.Core.dll
+C:\Users\TOP\source\repos\SmartStatements\SmartStatements.Application\obj\Debug\net8.0\SmartStatements.Core.pdb
+C:\Users\TOP\source\repos\SmartStatements\SmartStatements.Application\obj\Debug\net8.0\ref\SmartStatements.Core.dll
+C:\Users\TOP\source\repos\SmartStatements\SmartStatements.Application\obj\Debug\net8.0\SmartStatements.Core.sourcelink.json

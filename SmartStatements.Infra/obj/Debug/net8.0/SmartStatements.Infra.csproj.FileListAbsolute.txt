@@ -1,0 +1,16 @@
+C:\Users\TOP\source\repos\SmartStatements\SmartStatements.Infra\bin\Debug\net8.0\SmartStatements.Infra.deps.json
+C:\Users\TOP\source\repos\SmartStatements\SmartStatements.Infra\bin\Debug\net8.0\SmartStatements.Infra.dll
+C:\Users\TOP\source\repos\SmartStatements\SmartStatements.Infra\bin\Debug\net8.0\SmartStatements.Infra.pdb
+C:\Users\TOP\source\repos\SmartStatements\SmartStatements.Infra\obj\Debug\net8.0\SmartStatements.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOP\source\repos\SmartStatements\SmartStatements.Infra\obj\Debug\net8.0\SmartStatements.Infra.AssemblyInfoInputs.cache
+C:\Users\TOP\source\repos\SmartStatements\SmartStatements.Infra\obj\Debug\net8.0\SmartStatements.Infra.AssemblyInfo.cs
+C:\Users\TOP\source\repos\SmartStatements\SmartStatements.Infra\obj\Debug\net8.0\SmartStatements.Infra.csproj.CoreCompileInputs.cache
+C:\Users\TOP\source\repos\SmartStatements\SmartStatements.Infra\obj\Debug\net8.0\SmartStatements.Infra.dll
+C:\Users\TOP\source\repos\SmartStatements\SmartStatements.Infra\obj\Debug\net8.0\refint\SmartStatements.Infra.dll
+C:\Users\TOP\source\repos\SmartStatements\SmartStatements.Infra\obj\Debug\net8.0\SmartStatements.Infra.pdb
+C:\Users\TOP\source\repos\SmartStatements\SmartStatements.Infra\obj\Debug\net8.0\ref\SmartStatements.Infra.dll
+C:\Users\TOP\source\repos\SmartStatements\SmartStatements.Infra\obj\Debug\net8.0\SmartStatements.Infra.csproj.AssemblyReference.cache
+C:\Users\TOP\source\repos\SmartStatements\SmartStatements.Infra\bin\Debug\net8.0\SmartStatements.Core.dll
+C:\Users\TOP\source\repos\SmartStatements\SmartStatements.Infra\bin\Debug\net8.0\SmartStatements.Core.pdb
+C:\Users\TOP\source\repos\SmartStatements\SmartStatements.Infra\obj\Debug\net8.0\SmartSta.9E880097.Up2Date
+C:\Users\TOP\source\repos\SmartStatements\SmartStatements.Infra\obj\Debug\net8.0\SmartStatements.Infra.sourcelink.json
