@@ -4,14 +4,14 @@
     "C:\\Users\\TOP\\Desktop\\SmartStatements\\SmartStatements.Infra\\SmartStatements.Infra.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TOP\\Desktop\\SmartStatements\\SmartStatements.Application\\SmartStatements.Core.csproj": {
+    "C:\\Users\\TOP\\Desktop\\SmartStatements\\SmartStatements.Core\\SmartStatements.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TOP\\Desktop\\SmartStatements\\SmartStatements.Application\\SmartStatements.Core.csproj",
+        "projectUniqueName": "C:\\Users\\TOP\\Desktop\\SmartStatements\\SmartStatements.Core\\SmartStatements.Core.csproj",
         "projectName": "SmartStatements.Core",
-        "projectPath": "C:\\Users\\TOP\\Desktop\\SmartStatements\\SmartStatements.Application\\SmartStatements.Core.csproj",
+        "projectPath": "C:\\Users\\TOP\\Desktop\\SmartStatements\\SmartStatements.Core\\SmartStatements.Core.csproj",
         "packagesPath": "C:\\Users\\TOP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TOP\\Desktop\\SmartStatements\\SmartStatements.Application\\obj\\",
+        "outputPath": "C:\\Users\\TOP\\Desktop\\SmartStatements\\SmartStatements.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
@@ -119,8 +119,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\TOP\\Desktop\\SmartStatements\\SmartStatements.Application\\SmartStatements.Core.csproj": {
-                "projectPath": "C:\\Users\\TOP\\Desktop\\SmartStatements\\SmartStatements.Application\\SmartStatements.Core.csproj"
+              "C:\\Users\\TOP\\Desktop\\SmartStatements\\SmartStatements.Core\\SmartStatements.Core.csproj": {
+                "projectPath": "C:\\Users\\TOP\\Desktop\\SmartStatements\\SmartStatements.Core\\SmartStatements.Core.csproj"
               }
             }
           }

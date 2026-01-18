@@ -604,8 +604,8 @@
     },
     "SmartStatements.Core/1.0.0": {
       "type": "project",
-      "path": "../SmartStatements.Application/SmartStatements.Core.csproj",
-      "msbuildProject": "../SmartStatements.Application/SmartStatements.Core.csproj"
+      "path": "../SmartStatements.Core/SmartStatements.Core.csproj",
+      "msbuildProject": "../SmartStatements.Core/SmartStatements.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -651,8 +651,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\TOP\\Desktop\\SmartStatements\\SmartStatements.Application\\SmartStatements.Core.csproj": {
-              "projectPath": "C:\\Users\\TOP\\Desktop\\SmartStatements\\SmartStatements.Application\\SmartStatements.Core.csproj"
+            "C:\\Users\\TOP\\Desktop\\SmartStatements\\SmartStatements.Core\\SmartStatements.Core.csproj": {
+              "projectPath": "C:\\Users\\TOP\\Desktop\\SmartStatements\\SmartStatements.Core\\SmartStatements.Core.csproj"
             }
           }
         }

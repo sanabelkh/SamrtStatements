@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36705.20 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartStatements.Api", "SmartStatements\SmartStatements.Api.csproj", "{DF0D7518-C4FB-44A6-B3B7-1C7FE48C0C17}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartStatements.Api", "SmartStatements.Api\SmartStatements.Api.csproj", "{DF0D7518-C4FB-44A6-B3B7-1C7FE48C0C17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartStatements.Core", "SmartStatements.Application\SmartStatements.Core.csproj", "{11A45C96-4093-4BDC-AADA-05B43666755E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartStatements.Core", "SmartStatements.Core\SmartStatements.Core.csproj", "{11A45C96-4093-4BDC-AADA-05B43666755E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartStatements.Infra", "SmartStatements.Infra\SmartStatements.Infra.csproj", "{4E6A2450-6562-4D0E-832A-0C75323647C8}"
 EndProject
